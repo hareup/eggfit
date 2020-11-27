@@ -1,4 +1,4 @@
-<h1>Privacy Policy of Varn inc.</h1>
+<h1>Privacy Policy of Eggfit app.</h1>
 
 <p>Varn inc. built the Eggfit app as a Free app. </p>
 
